@@ -42,4 +42,4 @@ if __name__ == '__main__':
                 print(f"O mesmo que {helpers.fahrenheit_to_kelvin(temperatura)}ºK (Kelvin).")
                 break
             else:
-                print("Você precisa digitar uma das unidades C para Celsius ou K para Kelvin ou Fahrenheit")
+                print("Você precisa digitar uma das unidades C para Celsius ou K para Kelvin ou F para Fahrenheit")
